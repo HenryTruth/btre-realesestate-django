@@ -25,7 +25,7 @@ SECRET_KEY = 'j0n^5grn_wpcjo@#p4r7e&%5+#gdl*drft!hb%2%5qc0eafn27'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['estatemanagement.pythonanywhere.com']
 
 
 # Application definition
